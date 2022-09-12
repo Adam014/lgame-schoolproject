@@ -1,0 +1,7 @@
+C:\Users\stadnik.2019\source\repos\LGAME\LGAME\bin\Debug\LGAME.exe.config
+C:\Users\stadnik.2019\source\repos\LGAME\LGAME\bin\Debug\LGAME.exe
+C:\Users\stadnik.2019\source\repos\LGAME\LGAME\bin\Debug\LGAME.pdb
+C:\Users\stadnik.2019\source\repos\LGAME\LGAME\obj\Debug\LGAME.csprojAssemblyReference.cache
+C:\Users\stadnik.2019\source\repos\LGAME\LGAME\obj\Debug\LGAME.csproj.CoreCompileInputs.cache
+C:\Users\stadnik.2019\source\repos\LGAME\LGAME\obj\Debug\LGAME.exe
+C:\Users\stadnik.2019\source\repos\LGAME\LGAME\obj\Debug\LGAME.pdb
